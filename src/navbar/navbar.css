@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #ddd;
+    padding: 40px 0;
+}
+.navbar_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu ul{
+    display: flex;
+    column-gap: 30px;
+}

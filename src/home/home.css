@@ -1,0 +1,12 @@
+#banner{
+    padding: 100px 0;
+    background-color: beige;
+}
+
+.home{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: capitalize;
+    text-align: center;
+}

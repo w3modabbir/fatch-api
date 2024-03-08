@@ -1,0 +1,18 @@
+.footer{
+    padding: 100px;
+    background: teal;
+}
+
+.footer_main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.first_part ul li{
+    margin-bottom: 15px;
+}
+.first_part ul li a{
+   color: #fff;
+   font-size: 20px;
+   font-weight: 600;
+}
